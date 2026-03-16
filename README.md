@@ -232,8 +232,4 @@ ISC License - feel free to use this project for learning or commercial purposes.
 
 ---
 
-<p align="center">
 
-Built with ❤️ by [Vineet](https://github.com/vineet1cg)
-
-</p>
